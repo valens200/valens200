@@ -7,4 +7,4 @@
 <h1>Stats : </h1>
 <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=valens200&theme=light" alt="valens200" width="48%" /></span>
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=valens200&show_icons=true&locale=en&layout=compact" alt="valens200" width="40%" /></span>
-<span><img src="https://github-profile-trophy.vercel.app/?username=valens200&theme=light&column=4" /></span>
+<span><img src="https://github-profile-trophy.vercel.app/?username=valens200&theme=light&column=9" /></span>
