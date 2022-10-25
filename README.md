@@ -17,4 +17,6 @@
 # MY SOCIAL MEDIAS:
 # MY SOCIAL MEDIAS
 ### Twitter: https://twitter.com/KamalaFidele
-### Linkedin: https://www.linkedin.com/in/kamara-fidele
+### Linkedin: https://www.linkedin.com/in/valens-niyonsenga-947440228/
+### Leetcode : https://leetcode.com/valens250/
+### codeforces : https://codeforces.com/profile/Valens
