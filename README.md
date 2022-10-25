@@ -12,6 +12,7 @@
 
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge)
 ![AWS Badge](https://img.shields.io/badge/AWS-orange?style=for-the-badge)
+![java](https://img.shields.io/badge/AWS-orange?style=for-the-badge)
 
 # MY SOCIAL MEDIAS:
 # MY SOCIAL MEDIAS
