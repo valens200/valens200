@@ -8,3 +8,13 @@
 <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=valens200&theme=light" alt="valens200" width="48%" /></span>
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=valens200&show_icons=true&locale=en&layout=compact" alt="valens200" width="40%" /></span>
 <span><img src="https://github-profile-trophy.vercel.app/?username=valens200&theme=light&column=9" /></span>
+
+
+![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge)
+![AWS Badge](https://img.shields.io/badge/AWS-orange?style=for-the-badge)
+
+# MY SOCIAL MEDIAS:
+# MY SOCIAL MEDIAS
+### Twitter: https://twitter.com/KamalaFidele
+### Linkedin: https://www.linkedin.com/in/kamara-fidele-516bb2200/
+### Facebook: https://www.facebook.com/kamala.fidel/
