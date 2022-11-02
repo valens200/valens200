@@ -7,8 +7,8 @@
 valensniyonsenga2003@gmail.com
 
 ```
-> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valens200&theme=radical)
-> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valens200&show_icons=true&theme=radical)
+<!-- > ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valens200&theme=radical)
+> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valens200&show_icons=true&theme=radical) -->
 
 
 # Follow and connect to me:
