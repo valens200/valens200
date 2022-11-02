@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### Welcome to Valens's 1st Open Source Developer's Profile
+### Welcome to Valens's  Profile
  >Contact us:👇
 ```
 valensniyonsenga2003@gmail.com
