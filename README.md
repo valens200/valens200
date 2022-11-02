@@ -5,6 +5,11 @@
  >Contact us:👇
 ```
 infos@rwema.com
+
+
+![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge)
+![AWS Badge](https://img.shields.io/badge/AWS-orange?style=for-the-badge)
+![java](https://img.shields.io/badge/AWS-orange?style=for-the-badge)
 ```
 > ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rwema3&theme=radical)
 > ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rwema3&show_icons=true&theme=radical)
@@ -12,11 +17,6 @@ infos@rwema.com
 
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20you%20!;%20I%20am%20Valens;%20a%20Senior%Fullstack%20developer;Web%20and%20Mobile%20Expert;2%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 <hr>
-
-
-![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge)
-![AWS Badge](https://img.shields.io/badge/AWS-orange?style=for-the-badge)
-![java](https://img.shields.io/badge/AWS-orange?style=for-the-badge)
 
 # MY SOCIAL MEDIAS:
 # MY SOCIAL MEDIAS
