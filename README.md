@@ -16,8 +16,7 @@ valensniyonsenga2003@gmail.com
 > ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valens200&show_icons=true&theme=radical)
 
 
-# MY SOCIAL MEDIAS:
-# MY SOCIAL MEDIAS
+# Follow and connect to me:
 ### Twitter: https://twitter.com/KamalaFidele
 ### Linkedin: https://www.linkedin.com/in/valens-niyonsenga-947440228/
 ### Leetcode : https://leetcode.com/valens250/
