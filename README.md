@@ -2,7 +2,7 @@
 
 
 ### Welcome to My profile  Profile
-### My name is valens NIYONENGA , a fullstack developer with some javascript libraries and framewors such as  Nodejs ||  Nestjs  ||  Reactjs ||  Angularjs || Tailwindcss and Bootstrap combined with Springboot on backend. i also do  competitive programming with amazing langauges like Java and C++ you can check my leetcode and codeforces profiles in description bellow.
+### My name is valens NIYONENGA , a fullstack developer with some javascript libraries and frameworks such as  Nodejs ||  Nestjs  ||  Reactjs ||  Angularjs || Tailwindcss and Bootstrap combined with Springboot on backend. i also do  competitive programming with amazing langauges like Java and C++ you can check my leetcode and codeforces profiles in description bellow.
  >Contact me:👇
 ```
 valensniyonsenga2003@gmail.com
