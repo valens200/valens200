@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 
 ### Welcome to My profile  Profile
@@ -22,12 +22,13 @@ valensniyonsenga2003@gmail.com
   <span><img src="https://github-readme-stats.vercel.app/api?username=valens200&theme=dark" /></span>
 </span>
 <!--  -->
-### Top lang
+<!-- ### Top lang -->
 <!-- <span><img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valens200&langs_count=8&layout=compact&theme=dark"/></span><br><br> --> -->
 
 
-# Follow and connect to me:
+<!-- # Follow and connect to me:
 ### Linkedin: https://www.linkedin.com/in/valens-niyonsenga-947440228/
 ### Leetcode : https://leetcode.com/valens250/
-### codeforces : https://codeforces.com/profile/Valens
+### codeforces : https://codeforces.com/profile/Valens -->
 
+ -->
