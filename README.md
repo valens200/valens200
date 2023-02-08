@@ -65,10 +65,10 @@
 
 <br/>
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+<!-- ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Binance](https://img.shields.io/badge/binance-F0B90B.svg?style=for-the-badge&logo=binance&logoColor=white)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4.svg?style=for-the-badge&logo=OpenZeppelin&logoColor=white)
-![OpenZeppelin](https://img.shields.io/badge/web3-F16822.svg?style=for-the-badge&logo=web3.js&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/web3-F16822.svg?style=for-the-badge&logo=web3.js&logoColor=white) -->
 
 <br/>
 
@@ -76,7 +76,7 @@
 ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-2088FF.svg?style=for-the-badge&logo=github%20actions&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white)
+<!-- ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white) -->
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![AWS](https://img.shields.io/badge/amazon%20aws-232F3E.svg?style=for-the-badge&logo=amazon%20aws&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
