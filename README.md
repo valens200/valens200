@@ -26,10 +26,10 @@
   </a>&nbsp;&nbsp;
 </p>
 
-### GitHub Status 😎
+<!-- ### GitHub Status 😎
 <div id='profile-them'><a class='github-status' href='https://github.com/valens200'><img width="45%" src='https://github-readme-stats.vercel.app/api?username=LucasWongC&show_icons=true&theme=radical' />
 <a class='Most-used-languages' href='https://github.com/valens200'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?valens200=LucasWongC&layout=compact' />
-</div>
+</div> -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=everest-dev0323&show_icons=true&theme=radical)](https://github.com/everest-dev0323)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=everest-dev0323&layout=compact)](https://github.com/everest-dev0323)  -->
