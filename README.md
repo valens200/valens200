@@ -13,8 +13,10 @@
 
 
 ### **Contact Me**
+	
+	valensniyonsenga2003@gmail.com
 
-<p align='center'>
+<!-- <p align='center'>
   <a href="">
     <img src="https://img.shields.io/badge/telegram-26A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -25,7 +27,7 @@
     <img src="https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
-
+ -->
 <!-- ### GitHub Status 😎
 <div id='profile-them'><a class='github-status' href='https://github.com/valens200'><img width="45%" src='https://github-readme-stats.vercel.app/api?username=LucasWongC&show_icons=true&theme=radical' />
 <a class='Most-used-languages' href='https://github.com/valens200'><img width="45%" id='github-status' src='https://github-readme-stats.vercel.app/api/top-langs/?valens200=LucasWongC&layout=compact' />
