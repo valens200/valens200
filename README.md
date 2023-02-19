@@ -62,7 +62,7 @@
 <!-- ![jQuery](https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) -->
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-!(competitive programming) https://img.shields.io/badge/competitive%20programming-%3CCOLOR%3E
+<!-- !(competitive programming) https://img.shields.io/badge/competitive%20programming-%3CCOLOR%3E -->
 
 <!-- ![Solidity](https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) -->
 
@@ -84,7 +84,7 @@
 ![AWS](https://img.shields.io/badge/amazon%20aws-232F3E.svg?style=for-the-badge&logo=amazon%20aws&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-273347.svg?style=for-the-badge&logo=asana&logoColor=white) -->
- -->
+<!--  --> -->
 <br/>
 
 <!-- ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
