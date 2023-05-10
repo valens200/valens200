@@ -5,7 +5,7 @@ I am **Valens NIYONSENGA**, a student in Software Engineering and Embedded Syste
 - 🔭 I’m currently working on start up projects.
 - 🌱 I’m currently learning competitive programming key practical prerequisites.
 - 👯 I’m looking to collaborate on opensource projects.
-- 💬 Ask me about Java , Node Js , Go, solidity (Ethereum  blockchain )   CI/CD  , System Analysis and Design , Project Management , DSA and Algorithms. 
+- 💬 Ask me about Java , Node Js , Go, solidity (Ethereum  blockchain )  , System Analysis and Design , Project Management , Data Structures and Algorithms. 
 - 📫 How to reach me: valensniyonsenga2003@gmail.com
 - 😄 Pronouns: He/Him
 
