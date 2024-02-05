@@ -10,7 +10,7 @@ I am **Valens NIYONSENGA**, a student in Software Engineering and Embedded Syste
 
 #### Some of the projects I have worked on:
 - [RTB Tvet Management](https://tvetmanagement.rtb.gov.rw/)<br>
-- [Rwanda Ministry of Health Insurance portal](https://rhip.moh.gov.rw/auth/login)<br>
+- [Rwanda Health Insurance portal](https://rhip.moh.gov.rw/auth/login)<br>
 - [Rwanda Coding Academy Academic information management system](http://cybersecuritymeetup.rw/)<br>
 - [Yocast Rwanda](http://yocast.rw/)<br>
 - [Java Schema validator](https://github.com/valens200/validify)<br>
