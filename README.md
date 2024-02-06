@@ -24,7 +24,8 @@ I am **Valens NIYONSENGA**, a student in Software Engineering and Embedded Syste
 - [Certified in Java programming and advanced C/C++ programming](https://www.sololearn.com/certificates/CT-5TBVY3ZE)<br>
 
 #### My favorite languages/framework
-- Java / SpringBoot
+- Java / SpringBooth
 - PHP / Laravel / CakePHP
+- Python / Jungle 
 - Javascript / NodeJs(ExpressJs) / NestJs
 
