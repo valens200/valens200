@@ -7,15 +7,3 @@ I am **Valens NIYONSENGA**, a student in Software Engineering and Embedded Syste
 
 - Email: [valensniyonsenga2003@gmail.com](mailto:valensniyonsenga2003@gmail.com)<br>
 - Phone: +250782825742, +250793045233
-
-#### Some of the projects I have worked on:
-- [RTB Tvet Management](https://tvetmanagement.rtb.gov.rw/)<br>
-- [Rwanda Health Insurance portal](https://rhip.moh.gov.rw/auth/login)<br>
-- [Rwanda Coding Academy Academic information management system](http://cybersecuritymeetup.rw/)<br>
-- [Yocast Rwanda](http://yocast.rw/)<br>
-- [Java Schema validator](https://github.com/valens200/validify)<br>
-
-#### My Certificates:
-- [Hackerrank skills verification winner  in Java ](https://www.hackerrank.com/certificates/b295914ce997?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)<br>
-- [Certified in Java programming and advanced C/C++ programming](https://www.sololearn.com/certificates/CT-5TBVY3ZE)<br>
-
