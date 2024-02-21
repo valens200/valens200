@@ -15,17 +15,7 @@ I am **Valens NIYONSENGA**, a student in Software Engineering and Embedded Syste
 - [Yocast Rwanda](http://yocast.rw/)<br>
 - [Java Schema validator](https://github.com/valens200/validify)<br>
 
-|My overall statistics|Top most languages |
-|------------------|------------------|
-|![Nkubito Pacis's github stats](https://github-readme-stats.vercel.app/api?username=valens200&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valens200&langs_count=5&hide_border=true&theme=tokyonight&layout=compact)|
-
 #### My Certificates:
 - [Hackerrank skills verification winner  in Java ](https://www.hackerrank.com/certificates/b295914ce997?utm_medium=email&utm_source=mail_template_1393&utm_campaign=hrc_skills_certificate)<br>
 - [Certified in Java programming and advanced C/C++ programming](https://www.sololearn.com/certificates/CT-5TBVY3ZE)<br>
-
-#### My favorite languages/framework
-- Java / SpringBooth
-- PHP / Laravel / CakePHP
-- Python / Jungle 
-- Javascript / NodeJs(ExpressJs) / NestJs
 
