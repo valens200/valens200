@@ -9,4 +9,4 @@ I spend most of my time-solving competitive programming problems at Leetcode and
 [![Linkedin Badge](https://img.shields.io/badge/-valens200-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valens-niyonsenga-947440228/)  [![Mail Badge](https://img.shields.io/badge/-valens200-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:valensniyonsenga2003@gmail.com)
 
 - Email: [valensniyonsenga2003@gmail.com](mailto:valensniyonsenga2003@gmail.com)<br>
-- Phone: +250782825742, +250793045233
+- Phone: +250793045233, +250782825742
