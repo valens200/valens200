@@ -1,6 +1,9 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-I am **Valens NIYONSENGA**, a Software Engineering and Embedded Systems student  at **Rwanda Coding Academy**. I am verry familiar in building full stack applications. I mostly work with **React** , good at  **Angular** and **Vue** on the frontend Side. I am a great friend of **Java** , **PHP** , **Node Js** , **Python** and **C++** on the backend. I am passionate about dealing with complex tasks and approaching difficult problems. I am actively involved in open source and solving **competitive programming** problems on Leetcode,  Codeforces and Code chef . Enthusiastically keen about  working on optimization problems from **Maths**, **Data structures** and **Algorithms** .
+I am **Valens NIYONSENGA**,  a Google Summer of Code 2024 contributor at FOSSology.  I am passionate about solving challenges in the community using Software Engineering and bringing about innovative projects in my society. I have 4 years of experience working with programming languages such as  PHP, Java, Python, C/C++, Node.js, and Django on the backend side. I’m also very familiar with front-end technologies such as ReactJS and Vue. 
+
+I spend most of my time-solving competitive programming problems at Leetcode and Codechef, which helps me enhance my problem-solving skills
+
 
 **Reach Me Out:<br>**
 [![Linkedin Badge](https://img.shields.io/badge/-valens200-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valens-niyonsenga-947440228/)  [![Mail Badge](https://img.shields.io/badge/-valens200-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:valensniyonsenga2003@gmail.com)
