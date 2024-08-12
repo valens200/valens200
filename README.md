@@ -1,8 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-I am **Valens NIYONSENGA**,  a Google Summer of Code 2024 contributor at FOSSology.  I am passionate about solving challenges in the community using Software Engineering and bringing about innovative projects in my society. I have 4 years of experience working with programming languages such as  PHP, Java, Python, C/C++, Node.js, and Django on the backend side. I’m also very familiar with front-end technologies such as ReactJS and Vue. 
-
-I spend most of my time-solving competitive programming problems at Leetcode and Codechef, which helps me enhance my problem-solving skills
+I’m **Valens Niyonsenga**, a full-stack backend-heavy software developer with 8 years of experience. I’m an active contributor at [Google Summer of Code](https://summerofcode.withgoogle.com/) working on [REST API Improvements](https://summerofcode.withgoogle.com/programs/2024/projects/0oTx6AYV) with [FOSSology](https://www.fossology.org/) by Siemens, India under the Linux foundation projects.  I have already built 3 startups, and 4 successful projects for clients and gained great ratings in competitive programming at Leetcode and CodeChef. Most essential for every Software project, my extensive experience in leading and architecting large software development projects makes me an ideal candidate for your project. I have crafted 4 projects in the Rwandan government, education, and health sectors. Additionally, I'm a coach at Rwanda Informatics Olympiad honing my project management and communication skills along the way.
 
 
 **Reach Me Out:<br>**
