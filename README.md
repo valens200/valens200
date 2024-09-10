@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-I’m **Valens Niyonsenga**, an experienced full-stack backend-heavy software developer. I’m an active contributor at [Google Summer of Code](https://summerofcode.withgoogle.com/) working on [REST API Improvements]
+I’m **Valens Niyonsenga**,a graduate student at Rwanda Coding Academy. I am an experienced full-stack backend-heavy software developer. I’m an active contributor at [Google Summer of Code](https://summerofcode.withgoogle.com/) working on [REST API Improvements]
 (https://summerofcode.withgoogle.com/programs/2024/projects/0oTx6AYV) with [FOSSology](https://www.fossology.org/) by Siemens, India under the Linux foundation projects.
 
 I have already built 3 startups, and 4 successful projects for clients and gained great ratings in competitive programming at Leetcode and CodeChef. Most essential for every Software project, my extensive experience in leading and architecting large software development projects makes me an ideal candidate for your project. 
